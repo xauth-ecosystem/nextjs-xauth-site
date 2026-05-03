@@ -1,8 +1,5 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import '@fortawesome/fontawesome-free/css/fontawesome.min.css';
-import '@fortawesome/fontawesome-free/css/solid.min.css';
-import '@fortawesome/fontawesome-free/css/brands.min.css';
 
 import TheNavBar from "@/components/TheNavBar";
 import TheFooter from "@/components/TheFooter";
@@ -19,7 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="antialiased">
+      <body style={{ backgroundColor: '#020617', color: '#cbd5e1', fontFamily: 'Inter, sans-serif' }}>
         <TheNavBar />
         {children}
         <TheFooter />
