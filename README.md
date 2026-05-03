@@ -4,6 +4,8 @@
 
 This repository contains the source code for the official XAuth Ecosystem website. The site serves as a central hub for identity management solutions, providing access to documentation, downloads, and community resources.
 
+![XAuth website preview](assets/hero-screenshot.png)
+
 ## Technologies Used
 
 - **TypeScript / React 19**: Core framework (Next.js 16.1.1)
