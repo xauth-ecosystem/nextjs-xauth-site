@@ -1,6 +1,7 @@
 # XAuth Ecosystem Official Website
 
 [![Deploy Next.js site to Pages](https://github.com/xauth-ecosystem/nextjs-xauth-site/actions/workflows/deploy.yml/badge.svg)](https://github.com/xauth-ecosystem/nextjs-xauth-site/actions/workflows/deploy.yml)
+[![License: CSSM Unlimited License v2.0](https://img.shields.io/badge/License-CSSM%20Unlimited%20License%20v2.0-blue.svg?logo=opensourceinitiative)](LICENSE)
 
 This repository contains the source code for the official XAuth Ecosystem website. The site serves as a central hub for identity management solutions, providing access to documentation, downloads, and community resources.
 
