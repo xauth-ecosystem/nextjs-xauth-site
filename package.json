@@ -13,7 +13,7 @@
     "@tailwindcss/typography": "^0.5.19",
     "markdown-it": "^14.2.0",
     "next": "16.2.7",
-    "react": "19.2.6",
+    "react": "19.2.7",
     "react-dom": "19.2.7"
   },
   "devDependencies": {
