@@ -12,7 +12,7 @@
     "@fortawesome/fontawesome-free": "^7.3.1",
     "@tailwindcss/typography": "^0.5.20",
     "markdown-it": "^15.0.2",
-    "next": "16.3.5",
+    "next": "16.3.6",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
